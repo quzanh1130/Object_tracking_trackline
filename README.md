@@ -20,7 +20,7 @@ pip install -r setup.txt
 
 - `--weights`: model path or triton URL
 - `--source`: file/dir/URL/glob/screen/0(webcam)
-- `'--device`: cuda device, i.e. 0 or 0,1,2,3 or cpu
+- `--device`: cuda device, i.e. 0 or 0,1,2,3 or cpu
 - `--mode`: mode show line or not. 0: not show, 1: show line
 
 ``` bash
